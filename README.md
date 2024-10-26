@@ -1,1 +1,1 @@
-# Jane-Street-Puzzle
+# Jane Street Puzzle
