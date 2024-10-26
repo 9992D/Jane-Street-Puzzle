@@ -1,6 +1,6 @@
 # Jane Street Puzzle
 
 ## Knight Moves 6 - October 2024
-Backtracking Algorithm
+Backtracking Algorithm with Multiprocessing for Time Optimization
 
-Note that the algorithm provides the minimum values for A, B, and C.
+Execution Time: 2.98 seconds
