@@ -50,3 +50,5 @@ for k in range(0, 10000000):
     perfect = point(point1, point2)
     a += score(perfect)
 print(a / 10000000)
+
+"Result: 0.4911538"
