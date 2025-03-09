@@ -8,7 +8,10 @@ Execution Time: 2.98 seconds
 ## Beside the Point
 Algorith approch. To solve the problem, you need to mathematicly resolve it. 
 
-## Somewhat Squre Sudoku
+## Hall of Mirrors 3
+Recursive Backtracking Algorithm.
 
 ## Notes
 Please take a look at my portfolio [here](https://www.denny.capital)
+
+**Don't copy stupidly!**
