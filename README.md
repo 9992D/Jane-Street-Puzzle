@@ -5,10 +5,10 @@ Backtracking Algorithm with Multiprocessing for Time Optimization
 
 Execution Time: 2.98 seconds
 
-## Beside the Point
+## Beside the Point - November 2024
 Algorith approch. To solve the problem, you need to mathematicly resolve it. 
 
-## Hall of Mirrors 3
+## Hall of Mirrors 3 - March 2025
 Recursive Backtracking Algorithm.
 
 ## Notes
